@@ -1,4 +1,10 @@
-### Hi there 👋 123
+### Hi there 👋 
+
+I'm Maciek, a 26 y.o psychologist from Poland, who creates websites as a hobby since the beginning of 2021.
+I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+
+
+
 
 <!--
 **Lindllay/Lindllay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
