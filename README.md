@@ -6,12 +6,12 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 
 Languages and Tools:
 
-React,
-NextJS,
-JavaScript,
-SCSS, CSS,
-Figma,
-VS Code,
+React,<br>
+NextJS,<br>
+JavaScript,<br>
+SCSS, CSS,<br>
+Figma,<br>
+VS Code
 
 
 Currently learning Typescript and improving 
