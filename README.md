@@ -15,7 +15,7 @@ VS Code
 
 
 Currently learning Typescript and improving 
-<br>my skills in the above mentioned fields.
+<br>my skills in the above mentioned fields. :book:
 
 
 <!--
