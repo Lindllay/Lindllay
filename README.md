@@ -5,12 +5,12 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>I love exploring new technologies 💻 and leveraging them to build cool stuffs 🛠️.
 
 <h2>My recent projects:</h1>
-<p>E-commerce Audiophile:</p>
+<strong>E-commerce Audiophile:</strong>
 <p>https://github.com/Lindllay/nextjs-audiophile-e-commerce / Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
 Tech: 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </div>
 
