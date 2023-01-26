@@ -4,7 +4,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>who creates websites as a hobby since the beginning of 2021. 
 <br>I love exploring new technologies 💻 and leveraging them to build cool stuffs 🛠️.
 
-My recent projects:
+<h1>My recent projects:</h1>
 E-commerce Audiophile: https://github.com/Lindllay/nextjs-audiophile-e-commerce / Live: https://nextjs-audiophile-e-commerce.vercel.app/
 Tech:
 
