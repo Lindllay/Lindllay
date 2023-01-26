@@ -14,7 +14,7 @@ Tech:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://assets.stickpng.com/images/62c6bc0beee9410fe137d91e.png" alt="figma" height="40"/>
+<img src="https://cdn.dribbble.com/users/3061686/screenshots/17599145/figma-logo-2_4x.png" alt="figma" height="40"/>
 
 
 </div>
