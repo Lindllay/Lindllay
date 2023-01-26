@@ -4,9 +4,15 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>who creates websites as a hobby since the beginning of 2021. 
 <br>I love exploring new technologies 💻 and leveraging them to build cool stuffs 🛠️.
 
-<h1>My recent projects:</h1>
-E-commerce Audiophile: https://github.com/Lindllay/nextjs-audiophile-e-commerce / Live: https://nextjs-audiophile-e-commerce.vercel.app/
-Tech:
+<h2>My recent projects:</h1>
+<p>E-commerce Audiophile:</p>
+<p>https://github.com/Lindllay/nextjs-audiophile-e-commerce / Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
+Tech: 
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+</div>
 
 Interactive Comment Section: https://github.com/Lindllay/interactive-comments-section-main / Live: https://lindllay.github.io/interactive-comments-section-main/
 Tech:
