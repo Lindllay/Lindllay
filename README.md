@@ -8,7 +8,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 
 <h2>My recent projects:</h2>
 <br>
-<a href="https://nextjs-audiophile-e-commerce.vercel.app"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="500px" align="right"></a>
+<a href="https://nextjs-audiophile-e-commerce.vercel.app"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="450px" align="right" target=”_blank”></a>
   <h3>E-commerce Audiophile:</h3>
   <p>GH: https://github.com/Lindllay/nextjs-audiophile-e-commerce <br>Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
 
