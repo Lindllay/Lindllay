@@ -85,16 +85,15 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
 <br>
 
-<div>
-  <strong>Psychological opinion generator:</strong>
-  <p>https://lindllay.github.io/GeneratorOrzeczen/ / Live:  https://lindllay.github.io/GeneratorOrzeczen/</p>
+<a href="https://lindllay.github.io/GeneratorOrzeczen"><img src="https://i.ibb.co/cxhL6Lx/generator.png" alt="generator" align="right" width="500px"></a>
+<h3>Psychological opinion generator:</h3>
+<p>GH: https://lindllay.github.io/GeneratorOrzeczen/ <br>Live:  https://lindllay.github.io/GeneratorOrzeczen/</p>
 
-  <div>
+  <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </div>
-</div>
 
 <br>
 <br>
