@@ -12,6 +12,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
   <h3>E-commerce Audiophile:</h3>
   <p>GH: https://github.com/Lindllay/nextjs-audiophile-e-commerce <br>Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
   
+  <br>
   <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="nextjs" height="40"/>
@@ -20,58 +21,67 @@ I'm Maciek, a 26 y.o psychologist from Poland,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&q=75&fit=max&auto=format&dpr=2" alt="figma"      height="40"/>
   </div>
+  
+<br>
+<br>
+<br>
+<h1></h1>
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<a href="https://lindllay.github.io/interactive-comments-section-main/"><img src="https://i.ibb.co/r02X9Gx/comment-section.png" alt="comment-section" width="500px" align="right"></a>
+<a href="https://lindllay.github.io/interactive-comments-section-main/"><img src="https://i.ibb.co/GpQrmvW/comment-section.png" alt="comment-section" width="500px"  align="left" /></a>
 <h3>Interactive Comment Section:</h3>
-<p>https://github.com/Lindllay/interactive-comments-section-main / Live: https://lindllay.github.io/interactive-comments-section-main/</p>
+<p>GH: https://github.com/Lindllay/interactive-comments-section-main <br>Live: https://lindllay.github.io/interactive-comments-section-main/</p>
 
+  <br>
   <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </div>
 
-
 <br>
 <br>
 <br>
+<h1></h1>
+<br>
+<br>
 
+<a href="https://lindllay.github.io/WellMind/"><img src="https://i.ibb.co/wJnpsT3/ecommerce-shoes.png" alt="ecommerce-shoes" width="500px" align="right" /></a>
+ <h3>E-commerce Sneakers:</h3>
+ <p>GH: https://github.com/Lindllay/ecommerce-product-page-main <br>Live: https://lindllay.github.io/ecommerce-product-page-main/</p>
 
-<div>
-  <strong>E-commerce Sneakers:</strong>
-  <p>https://github.com/Lindllay/ecommerce-product-page-main / Live: https://lindllay.github.io/ecommerce-product-page-main/</p>
-
-  <div>
-    <h5>Tech: </h5>
+  <br>
+  <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </div>
-</div>
 
 <br>
 <br>
 <br>
+<h1></h1>
+<br>
+<br>
 
+ 
+<a href="https://lindllay.github.io/WellMind/"><img src="https://i.ibb.co/H7hxTDM/wellmind.png" alt="ecommerce-shoes" width="500px" align="left" /></a>
+  
+  <h3 align="center">Well-Mind (website providing online psychotherapeutic services):</h3>
+  <p align="center">GH: https://github.com/Lindllay/WellMind <br>Live: https://lindllay.github.io/WellMind/</p>
 
-<div>
-  <strong>Well-Mind (website providing online psychotherapeutic services):</strong>
-  <p>https://github.com/Lindllay/WellMind / Live: https://lindllay.github.io/WellMind/</p>
-
-  <div>
+  <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </div>
-</div>
+
 
 <br>
+<br>
+<br>
+<h1></h1>
 <br>
 <br>
 
@@ -87,6 +97,9 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 </div>
 
 <br>
+<br>
+<br>
+<h1></h1>
 <br>
 <br>
 
