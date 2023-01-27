@@ -8,7 +8,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 
 <h2>My recent projects:</h2>
 <br>
-<a href="https://nextjs-audiophile-e-commerce.vercel.app" target="_blank"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="500px height="250px" align="right" ></a>
+<a href="https://nextjs-audiophile-e-commerce.vercel.app" target="_blank"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="450px height="250px" align="right" ></a>
   <h3>:headphones: E-commerce Audiophile:</h3>
   <p>GH: https://github.com/Lindllay/nextjs-audiophile-e-commerce <br>Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
   
@@ -29,7 +29,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
 <br>
 
-<a href="https://lindllay.github.io/interactive-comments-section-main/"><img src="https://i.ibb.co/GpQrmvW/comment-section.png" alt="comment-section" width="500px"  align="left" /></a>
+<a href="https://lindllay.github.io/interactive-comments-section-main/"><img src="https://i.ibb.co/GpQrmvW/comment-section.png" alt="comment-section" width="450px"  align="left" /></a>
 <h3>:thumbsup: Interactive Comment Section:</h3>
 <p>GH: https://github.com/Lindllay/interactive-comments-section-main <br>Live: https://lindllay.github.io/interactive-comments-section-main/</p>
 
@@ -47,7 +47,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
 <br>
 
-<a href="https://lindllay.github.io/WellMind/"><img src="https://i.ibb.co/wJnpsT3/ecommerce-shoes.png" alt="ecommerce-shoes" width="500px" align="right" /></a>
+<a href="https://lindllay.github.io/WellMind/"><img src="https://i.ibb.co/wJnpsT3/ecommerce-shoes.png" alt="ecommerce-shoes" width="450px" align="right" /></a>
  <h3>:shoe: E-commerce Sneakers:</h3>
  <p>GH: https://github.com/Lindllay/ecommerce-product-page-main <br>Live: https://lindllay.github.io/ecommerce-product-page-main/</p>
 
@@ -66,7 +66,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
 
  
-<a href="https://lindllay.github.io/WellMind/"><img src="https://i.ibb.co/H7hxTDM/wellmind.png" alt="ecommerce-shoes" width="500px" align="left" /></a>
+<a href="https://lindllay.github.io/WellMind/"><img src="https://i.ibb.co/H7hxTDM/wellmind.png" alt="ecommerce-shoes" width="450px" align="left" /></a>
   
   <h3 align="center">:smile: Well-Mind (website providing online psychotherapeutic services):</h3>
   <p align="center">GH: https://github.com/Lindllay/WellMind <br>Live: https://lindllay.github.io/WellMind/</p>
@@ -85,7 +85,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
 <br>
 
-<a href="https://lindllay.github.io/GeneratorOrzeczen"><img src="https://i.ibb.co/cxhL6Lx/generator.png" alt="generator" align="right" width="500px"></a>
+<a href="https://lindllay.github.io/GeneratorOrzeczen"><img src="https://i.ibb.co/cxhL6Lx/generator.png" alt="generator" align="right" width="450px"></a>
 <h3>:newspaper: Psychological opinion generator:</h3>
 <p>GH: https://lindllay.github.io/GeneratorOrzeczen/ <br>Live:  https://lindllay.github.io/GeneratorOrzeczen/</p>
 
