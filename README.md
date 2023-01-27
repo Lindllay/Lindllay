@@ -4,12 +4,18 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>who creates websites as a hobby since the beginning of 2021. 
 <br>I love exploring new technologies 💻 and leveraging them to build cool stuffs 🛠️.
 
-<h2>My recent projects:</h1>
-<div>
-  <strong>E-commerce Audiophile:</strong>
-  <p>https://github.com/Lindllay/nextjs-audiophile-e-commerce / Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
+<br>
+
+<h2>My recent projects:</h2>
+<br>
+<a href="https://nextjs-audiophile-e-commerce.vercel.app"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="500px" align="right"></a>
+  <h3>E-commerce Audiophile:</h3>
+  <p>GH: https://github.com/Lindllay/nextjs-audiophile-e-commerce <br>Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
+
 
   <div>
+  
+  <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="nextjs" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -17,7 +23,8 @@ I'm Maciek, a 26 y.o psychologist from Poland,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&q=75&fit=max&auto=format&dpr=2" alt="figma"      height="40"/>
   </div>
-</div>
+  
+  </div>
 
 <br>
 <br>
