@@ -29,7 +29,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
 <br>
 
-<a href="https://lindllay.github.io/interactive-comments-section-main/"><img src="https://i.ibb.co/GpQrmvW/comment-section.png" alt="comment-section" width="475px"  align="left" /></a>
+<a href="https://lindllay.github.io/interactive-comments-section-main/"><img src="https://i.ibb.co/KVm4T9C/comment-section.png" alt="comment-section" width="475px"  align="left" /></a>
 <h3>:thumbsup: Interactive Comment Section:</h3>
 <p>GH: https://github.com/Lindllay/interactive-comments-section-main <br>Live: https://lindllay.github.io/interactive-comments-section-main/</p>
 
@@ -85,7 +85,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
 <br>
 
-<a href="https://lindllay.github.io/GeneratorOrzeczen"><img src="https://i.ibb.co/cxhL6Lx/generator.png" alt="generator" align="right" width="475px"></a>
+<a href="https://lindllay.github.io/GeneratorOrzeczen"><img src="https://i.ibb.co/L81Hmrh/generator.png" alt="generator" align="right" width="475px"></a>
 <h3>:newspaper: Psychological opinion generator:</h3>
 <p>GH: https://lindllay.github.io/GeneratorOrzeczen/ <br>Live:  https://lindllay.github.io/GeneratorOrzeczen/</p>
 
