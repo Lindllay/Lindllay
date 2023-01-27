@@ -8,12 +8,9 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 
 <h2>My recent projects:</h2>
 <br>
-<a href="https://nextjs-audiophile-e-commerce.vercel.app" target="_blank"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="450px" align="right" ></a>
+<a href="https://nextjs-audiophile-e-commerce.vercel.app" target="_blank"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="500px height="250px" align="right" ></a>
   <h3>E-commerce Audiophile:</h3>
   <p>GH: https://github.com/Lindllay/nextjs-audiophile-e-commerce <br>Live: https://nextjs-audiophile-e-commerce.vercel.app/</p>
-
-
-  <div>
   
   <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -23,24 +20,23 @@ I'm Maciek, a 26 y.o psychologist from Poland,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&q=75&fit=max&auto=format&dpr=2" alt="figma"      height="40"/>
   </div>
-  
-  </div>
 
 <br>
 <br>
 <br>
+<br>
+<br>
 
+<a href="https://lindllay.github.io/interactive-comments-section-main/"><img src="https://i.ibb.co/r02X9Gx/comment-section.png" alt="comment-section" width="500px" align="right"></a>
+<h3>Interactive Comment Section:</h3>
+<p>https://github.com/Lindllay/interactive-comments-section-main / Live: https://lindllay.github.io/interactive-comments-section-main/</p>
 
-<div>
-  <strong>Interactive Comment Section:</strong>
-  <p>https://github.com/Lindllay/interactive-comments-section-main / Live: https://lindllay.github.io/interactive-comments-section-main/</p>
-
-  <div>
+  <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </div>
-</div>
+
 
 <br>
 <br>
