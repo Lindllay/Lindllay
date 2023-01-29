@@ -80,7 +80,11 @@ I'm Maciek, a 26 y.o psychologist from Poland,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </div>
 
-
+<br>
+<br>
+<h1></h1>
+<br>
+<br>
 
 Currently learning Typescript and improving 
 <br>my skills in the above mentioned technologies. :book:
