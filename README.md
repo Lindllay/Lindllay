@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-I'm Maciek, a 26 y.o psychologist from Poland, 
+I'm Maciek, a 26 y/o psychologist from Poland, 
 <br>who creates websites as a hobby since the beginning of 2021. 
 <br>I love exploring new technologies 💻 and leveraging them to build cool stuffs 🛠️.
 
@@ -71,7 +71,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <a href="https://lindllay.github.io/WellMind/"><img src="https://i.ibb.co/H7hxTDM/wellmind.png" alt="ecommerce-shoes" width="450px" align="left" /></a>
 <br>
   
-  <h3 align="center">:smile: Well-Mind (website providing online psychotherapeutic services):</h3>
+  <h3 align="center">:smile: WellMind</h3>
   <p align="center">GH: https://github.com/Lindllay/WellMind <br>Live: https://lindllay.github.io/WellMind/</p>
 
   <div align="center">
@@ -86,8 +86,8 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
 <br>
 
-Currently learning Typescript and improving 
-<br>my skills in the above mentioned technologies. :book:
+<strong>Currently learning <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" height="25px" /> and improving my skills
+  <br> in the above mentioned technologies.</strong>
 
 
 <!--
