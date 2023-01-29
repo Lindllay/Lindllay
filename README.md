@@ -2,7 +2,7 @@
 
 I'm Maciek, a 26 y/o psychologist from Poland, 
 <br>who creates websites as a hobby since the beginning of 2021. 
-<br>I love exploring new technologies 💻 and leveraging them to build cool stuffs 🛠️.
+<br>I love exploring new technologies 💻 and leveraging them to build cool stuff 🛠️.
 
 <br>
 
