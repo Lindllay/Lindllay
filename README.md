@@ -80,32 +80,10 @@ I'm Maciek, a 26 y.o psychologist from Poland,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </div>
 
-<br>
-<br>
-<h1></h1>
-<br>
-<br>
 
-<a href="https://lindllay.github.io/GeneratorOrzeczen"><img src="https://i.ibb.co/L81Hmrh/generator.png" alt="generator" align="right" width="450px"></a>
-<br>
-  
-<h3>:newspaper: Psychological opinion generator:</h3>
-<p>GH: https://github.com/Lindllay/GeneratorOrzeczen <br>Live:  https://lindllay.github.io/GeneratorOrzeczen/</p>
-
-  <div align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </div>
-
-<br>
-<br>
-<h1></h1>
-<br>
-<br>
 
 Currently learning Typescript and improving 
-<br>my skills in the above mentioned fields. :book:
+<br>my skills in the above mentioned technologies. :book:
 
 
 <!--
