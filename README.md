@@ -79,6 +79,7 @@ I'm Maciek, a 26 y/o psychologist from Poland,
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="scss" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&q=75&fit=max&auto=format&dpr=2" alt="figma"      height="40"/>
   </div>
 
 <br>
