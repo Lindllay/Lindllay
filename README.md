@@ -90,7 +90,7 @@ I'm Maciek, a 26 y.o psychologist from Poland,
 <br>
   
 <h3>:newspaper: Psychological opinion generator:</h3>
-<p>GH: https://lindllay.github.io/GeneratorOrzeczen/ <br>Live:  https://lindllay.github.io/GeneratorOrzeczen/</p>
+<p>GH: https://github.com/Lindllay/GeneratorOrzeczen <br>Live:  https://lindllay.github.io/GeneratorOrzeczen/</p>
 
   <div align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
