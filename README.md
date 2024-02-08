@@ -7,6 +7,29 @@ I'm Maciek, a 26 y/o psychologist from Poland,
 <br>
 
 <h2>My recent projects:</h2>
+
+<br>
+<a href="https://nextjs-audiophile-e-commerce.vercel.app" target="_blank"><img src="https://iili.io/J17cdFe.png" alt="audiophile" width="450px height="250px" align="left" ></a>
+<br>
+  
+  <h3>🐶: Animal Shelter - Przytulisko:</h3>
+  <p>GH: https://github.com/Lindllay/Animal-Shelter-Frontend<br>Live: https://animal-shelter-f9h0.onrender.com/</p>
+  
+  
+  <br>
+  <div align="left">
+    <img src="https://www.crossshoresolutions.com/wp-content/uploads/2020/04/mern_icon.png" alt="react" width="100" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="scss" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=670&q=75&fit=max&auto=format&dpr=2" alt="figma"      height="40"/>
+  </div>
+  
+<br>
+<br>
+<h1></h1>
+<br>
+<br>
+
 <br>
 <a href="https://nextjs-audiophile-e-commerce.vercel.app" target="_blank"><img src="https://i.ibb.co/mJvGnJY/audiophile.png" alt="audiophile" width="450px height="250px" align="right" ></a>
 <br>
